@@ -1,0 +1,5 @@
+numpy
+scipy
+decorated_options
+jupyter
+seaborn
